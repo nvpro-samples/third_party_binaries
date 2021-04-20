@@ -3,6 +3,8 @@
 This repository stores additional third party dependencies that may be used selectively in the nvpro-samples.
 Compared to code in shared_sources, the libraries here may also come with binaries for windows.
 
+> NOTE: It will be used as submodule for shared_sources and replace shared_external.
+
 ## Third Party
 
 #### FreeImage
